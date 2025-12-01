@@ -117,11 +117,11 @@ const App: React.FC = () => {
       <footer className="bg-rodeo-dark text-rodeo-tan py-12 px-6 border-t border-white/10">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0">
           <div className="flex items-center space-x-4">
-            <img
+            {/* <img
               src={LOGO_URL}
               alt="MRA Logo Small"
               className="h-12 opacity-80 grayscale hover:grayscale-0 transition-all"
-            />
+            /> */}
           </div>
           <div className="text-sm text-white/40">
             &copy; {new Date().getFullYear()} National Rodeo Royalty Council. All
