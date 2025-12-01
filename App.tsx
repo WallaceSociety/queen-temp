@@ -124,7 +124,7 @@ const App: React.FC = () => {
             />
           </div>
           <div className="text-sm text-white/40">
-            &copy; {new Date().getFullYear()} Miss Rodeo America, Inc. All
+            &copy; {new Date().getFullYear()} National Rodeo Royalty Council. All
             rights reserved.
           </div>
         </div>
